@@ -19,8 +19,8 @@ Interested in accessibility issues.
 | ------------ | ------------ | ------------ |
 | JavaScript   | NodeJS       | Git          |
 | React        | Express.js   | Figma        |
-| HTML         | SQL          | Regex        |
-| CSS / SCSS   | MongoDB      | SEO          |
+| CSS / SCSS   | SQL          | Regex        |
+| HTML         | MongoDB      | SEO          |
 
 
 *Also learning or planning to learn:* Typescript, Redux, PHP, Laravel, Svelte
@@ -80,12 +80,14 @@ Interested in accessibility issues.
 ## 👩🏼‍💻 **EXPERIENCE**
 
 **Web Developer Trainee** @ [BeCode](https://www.becode.org) *(Jan 2022 - July 2022)*
+  
 Bootcamp with an active learning philosophy
 
 - Learned most of my skills and did most of my projects there (see previous sections)
 
 
 **Communications Coordinator** @ [ScriptaLinea](https://www.scriptalinea.org) *(Nov 2019 - Nov 2022)*
+
 Non-profit organization active in lifelong learning, publish 
 
   - Managing the website of the association, with updates in JavaScript, HTML, CSS, PHP, MySQL, and day-to-day management of the website host
@@ -96,6 +98,7 @@ Non-profit organization active in lifelong learning, publish
   - Setting up a communications strategy for the association
 
 **Communications Officer** @ [Samyn and Partners](https://samynandpartners.com) *(Feb 2017 - Apr 2019)*
+
 Architects
 
   - Digital management: website (WordPress) and social media (LinkedIn, Facebook, Instagram)
@@ -103,6 +106,7 @@ Architects
   - Managing a team of interns
 
 **Communications and Marketing Officer** @ [Avitour](http://www.avitour.travel) *(May 2016 - Sept 2016)*
+
 Grouping of travel agencies
 
   - Managing contents on the websites (Joomla!)
