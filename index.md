@@ -2,7 +2,7 @@
 
 *Junior Web Developer based in Belgium*
 
-[LinkedIn](https://be.linkedin.com/in/robinlejeune)
+[LinkedIn](https://be.linkedin.com/in/robinlejeune) /// [Dev.to](https://dev.to/robinlej)
 
 ## ℹ **ABOUT**
 
@@ -27,19 +27,29 @@ Interested in accessibility issues.
 
 ## 🔬 **PROJECTS**
 
+*NB: most projects have a GIF preview in their Readme file to help you visualise them.*
+
 ### ***1. Main projects***
 
 - [*BeTogether*](https://github.com/robinlej/betogether) - Frontend in React *(team of 2)*
     
+    > [Demo](https://betogether-becode.herokuapp.com/)
+    >
     > Desktop web app to allow BeCode learners to submit project ideas, see each others' projects and vote for their favorites. Creates groups according to the learners' preferences.
+
+    ![Preview](betogether-preview.jpg)
   
 - [*OneTheater*](https://github.com/charlottelotte2021/OneTheater_app) - Frontend (vanilla) and Backend (Express) *(team of 3)*
 
+  > [Demo](https://onetheater.herokuapp.com/) (mobile only)
+  > 
   > Mobile web app to list all the theatre plays in Brussels according to their dates, names, theatre, comedians and keep them in a wishlist if interested.
   > 
   > The idea came from the lack of easy solutions to compare the seasons between theatres, making it a requirement to go on each theatre's website to check, compare, book.
   > 
   > The actual data was [scraped from the websites of the theatres](https://github.com/robinlej/scraping-fiesta-onetheater) using Playwright.
+
+  <img src="onetheater.jpg" alt="Preview" width="200"/>
 
 - [*ScriptaLinea*](https://www.scriptalinea.org) - Frontend components (CSS / vanilla JS) and connexion to the MySQL database with small PHP scripts
 
@@ -51,7 +61,22 @@ Interested in accessibility issues.
   > - a better menu bar, 
   > - ... and lots of CSS tweaks here and there.
 
+  ![Preview](scriptalinea-preview.jpg)
+
 ### ***2. Exercise projects***
+
+- [*CRUD React App*](https://github.com/robinlej/tapio-posts) - React
+
+  > Demo on https://robinlej.github.io/tapio-posts/
+  > 
+  > Full CRUD app made in 2 days as an exercise, using fake data from JSONPlaceholder and local storage for persistence.
+  > 
+  > - Responsive (mobile-first)
+  > - Dark mode with toggle
+  > - Attention to accessibility 
+
+| ![Preview](tapio-posts-preview.jpg) | ![Preview](tapio-posts-preview-dark.jpg) |
+|---|---|
 
 - [*RecipeApp*](https://github.com/robinlej/recipe-app) - JS / NodeJS / SQLite
 
