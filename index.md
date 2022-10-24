@@ -2,34 +2,56 @@
 
 *Junior Web Developer based in Belgium*
 
-[LinkedIn](https://be.linkedin.com/in/robinlejeune) /// [Dev.to](https://dev.to/robinlej)
+[LinkedIn](https://be.linkedin.com/in/robinlejeune) /// [Github](https://github.com/robinlej/) /// [Dev.to](https://dev.to/robinlej)
 
-## ℹ **ABOUT**
+---
 
-In the midst of a career change, I am a **Junior Web Developer** looking for an internship in Belgium.
+## **CONTENTS**
+1. <a href="#user-content-skills">Key skills</a>
+2. <a href="#user-content-about">About</a>
+3. <a href="#user-content-projects">My projects</a>
+4. <a href="#user-content-experience">Experience</a>
+5. <a href="#user-content-education">Education</a>
+6. <a href="#user-content-languages">Languages</a>
 
-After working in communications for the past 6 years and a few months of self-learning in JavaScript / HTML / CSS, I joined the **bootcamp on Web Development from BeCode** at the beginning of 2022. Their philosophy of active learning worked very well for me: it calls for our own motivation to keep improving and at the same time guides us towards the technologies that we should be looking into. It also gave me the opportunity to work on projects with others.
+---
+
+## <span id="skills">💻 **KEY SKILLS**</span>
+
+| **FRONTEND** |  **BACKEND** |    **OTHER**   |
+| ------------ | ------------ | -------------- |
+| JavaScript   | NodeJS       | Git            |
+| Typescript   | Express.js   | Figma          |
+| React        | Nuxt         | Regex          |
+| Vue.js       | SQL          | SEO            |
+| CSS / SCSS   | MongoDB      | Linux commands |
+| HTML         |              |                |
+
+*Also worked with:* Django (Python), Next.js, Kotlin
+
+
+## <span id="about">ℹ **ABOUT**</span>
+
+Changing careers after 7-months training in fullstack development and an internship as a Web App Developer at [HeartKinetics](https://heartkinetics.com/), I am a **Junior Web Developer** looking for an opportunity in Belgium.
+
+After working in communications for the past 6 years and a few months of self-learning in JavaScript / HTML / CSS, I joined the **bootcamp on Web Development from BeCode** at the beginning of 2022. Their philosophy of active learning worked very well for me: it calls for our own motivation to keep improving and at the same time guides us towards the technologies that we should be looking into. It also gave me the opportunity to work on projects with others. During my internship at HeartKinetics, I was in charge of creating a dashboard for internal use displaying aggregated research data, which involved work with Vue.js / Nuxt and Plotly on the frontend, Kotlin on the backend.
 
 Interested in accessibility issues.
 
 
-## 💻 **KEY SKILLS**
-
-| **FRONTEND** |  **BACKEND** |   **OTHER**  |
-| ------------ | ------------ | ------------ |
-| JavaScript   | NodeJS       | Git          |
-| React        | Express.js   | Figma        |
-| CSS / SCSS   | SQL          | Regex        |
-| HTML         | MongoDB      | SEO          |
-
-
-*Also learning or planning to learn:* Typescript, Redux, PHP, Laravel, Svelte
-
-## 🔬 **PROJECTS**
+## <span id="projects">🔬 **PROJECTS**</span>
 
 *NB: most projects have a GIF preview in their Readme file to help you visualise them.*
 
 ### ***1. Main projects***
+
+- *Dashboard for HeartKinetics* - Frontend in Vue with Nuxt, backend in Kotlin
+  
+  > *No preview available due to its confidential nature.*
+  > 
+  > Dashboard displaying and aggregating research data (patients, genders, BMI, heart conditions, evolution over time...).
+  > 
+  > Work done: sketch on **Figma**, components and CSS with **Vue.js** in **Nuxt**, graphs with **Plotly**, custom endpoints in a REST API in **Kotlin**.
 
 - [*BeTogether*](https://github.com/robinlej/betogether) - Frontend in React *(team of 2)*
     
@@ -102,7 +124,16 @@ Interested in accessibility issues.
   
   > Generates a random Mondrian-like painting every second
 
-## 👩🏼‍💻 **EXPERIENCE**
+## <span id="experience">👩🏼‍💻 **EXPERIENCE**</span>
+
+**Fullstack Web App Developer Intern** @ [HeartKinetics](https://heartkinetics.com) *(August 2022 - September 2022)*
+
+Start-up in the health sector developing an app to detect heart failures in patients.
+
+  - Dashboard for the internal website displaying aggregated research data.
+  - Frontend with Vue.js and Nuxt
+  - Backend with Kotlin (add custom endpoints within an existing REST API)
+
 
 **Web Developer Trainee** @ [BeCode](https://www.becode.org) *(Jan 2022 - July 2022)*
   
@@ -155,7 +186,7 @@ Grouping of travel agencies
 **Bachelor's Degree** in Modern Languages and Literatures *(English / Spanish)* @ [UCLouvain](https://www.uclouvain.be) *(2009 - 2012)*
   - 6-month exchange to [Universidad Complutense de Madrid](https://ucm.es/english) *(2011-2012)*
 
-## 💬 **LANGUAGES**
+## <span id="languages">💬 **LANGUAGES**</span>
 
 - **French** - *Native* (C2)
 - **English** - *Bilingual* (C1)
