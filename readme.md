@@ -7,12 +7,12 @@
 ---
 
 ## **CONTENTS**
-1. <a href="#skills">Key skills</a>
-2. <a href="#about">About</a>
-3. <a href="#projects">My projects</a>
-4. <a href="#experience">Experience</a>
-5. <a href="#education">Education</a>
-6. <a href="#languages">Languages</a>
+1. <a href="#user-content-skills">Key skills</a>
+2. <a href="#user-content-about">About</a>
+3. <a href="#user-content-projects">My projects</a>
+4. <a href="#user-content-experience">Experience</a>
+5. <a href="#user-content-education">Education</a>
+6. <a href="#user-content-languages">Languages</a>
 
 ---
 
