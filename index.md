@@ -18,16 +18,16 @@
 
 ## <span id="skills">💻 **KEY SKILLS**</span>
 
-| **FRONTEND** |  **BACKEND** |    **OTHER**   |
-| ------------ | ------------ | -------------- |
-| JavaScript   | NodeJS       | Git            |
-| Typescript   | Express.js   | Figma          |
-| React        | Nuxt         | Regex          |
-| Vue.js       | SQL          | SEO            |
-| CSS / SCSS   | MongoDB      | Linux commands |
-| HTML         |              |                |
+| **FRONTEND**  |  **BACKEND**    |    **OTHER**   |
+| ------------  | ------------    | -------------- |
+| JavaScript    | NodeJS          | Git            |
+| Typescript    | Express.js      | Figma          |
+| React         | SQL             | Regex          |
+| Vue.js / Nuxt | MongoDB         | SEO            |
+| CSS / SCSS    | Django (Python) | Linux commands |
+| HTML          |                 |                |
 
-*Also worked with:* Django (Python), Next.js, Kotlin
+*Also worked with:* Next.js, Kotlin
 
 
 ## <span id="about">ℹ **ABOUT**</span>
@@ -36,7 +36,7 @@ Changing careers after 7-months training in fullstack development and an interns
 
 After working in communications for the past 6 years and a few months of self-learning in JavaScript / HTML / CSS, I joined the **bootcamp on Web Development from BeCode** at the beginning of 2022. Their philosophy of active learning worked very well for me: it calls for our own motivation to keep improving and at the same time guides us towards the technologies that we should be looking into. It also gave me the opportunity to work on projects with others. During my internship at HeartKinetics, I was in charge of creating a dashboard for internal use displaying aggregated research data, which involved work with Vue.js / Nuxt and Plotly on the frontend, Kotlin on the backend.
 
-Interested in accessibility issues.
+Equally interested in frontend and backend, with an eye for accessibility issues.
 
 
 ## <span id="projects">🔬 **PROJECTS**</span>
